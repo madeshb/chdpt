@@ -18,7 +18,7 @@
         font-size: 20px;
         font-weight: bolder;
         color: beige;
-        padding-left: 100px;
+        padding-left: 90px;
         
     }
     .logo:hover{
@@ -60,8 +60,8 @@
         text-decoration-color: lime;
     }
     .img2 img{
-        width: 100px;
-        height: 100px;
+        width: 130px;
+        height: 130px;
         margin-top: 95px;
         margin-left: 30px;
         padding-top: 10px;
@@ -70,7 +70,7 @@
         position: absolute;
     }
     .main2 p{
-        font-size: 22px;
+        font-size: 18px;
         font-weight: bolder;
         color: black;
         padding-top: 70px;
@@ -92,7 +92,7 @@
     .main3 p{
         font-size: 30px;
         font-weight: bolder;
-        margin-top: 180px;
+        margin-top: 150px;
         margin-left: 15px; 
     }
     .main4 h1{
