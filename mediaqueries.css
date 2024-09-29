@@ -42,15 +42,15 @@
         position: absolute;
     }
     .header img{
-        height: 50px;
-        width: 50px;
+        height: 40px;
+        width: 40px;
     }
     .sen1 p{
         font-size: 27px;
 
         padding-top: 35px;
         color:yellow;
-        padding-left: 25px;
+        padding-left: 2px;
         padding-right: 25px;
         
         text-align: left;
