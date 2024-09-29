@@ -73,8 +73,8 @@
         font-size: 17px;
         font-weight: bolder;
         color: black;
-        padding-top: 90px;
-        padding-left: 140px;
+        padding-top: 65px;
+        padding-left: 160px;
         text-align: center;
     
     }
@@ -92,7 +92,7 @@
     .main3 p{
         font-size: 30px;
         font-weight: bolder;
-        margin-top: 110px;
+        margin-top: 80px;
         margin-left: 15px; 
     }
     .main4 h1{
@@ -116,7 +116,7 @@
         height: 200px;
         width: 200px;
 
-        margin-left: 90px;
+        margin-left: 75px;
         margin-top: 30px;
         border: 5px solid gold;
         border-radius: 10px;
@@ -128,7 +128,7 @@
         height: 200px;
         width: 200px;
 
-        margin-left: 90px;
+        margin-left: 75px;
         margin-top: 30px;
         border: 5px solid gold;
         border-radius: 10px;
@@ -138,7 +138,7 @@
         height: 200px;
         width: 200px;
 
-        margin-left: 90px;
+        margin-left: 75px;
         margin-top: 50px;
         border: 5px solid gold;
         border-radius: 10px;
@@ -147,7 +147,7 @@
         height: 200px;
         width: 200px;
 
-        margin-left: 90px;
+        margin-left: 75px;
         margin-top: 50px;
         border: 5px solid gold;
         border-radius: 10px;
@@ -200,8 +200,8 @@
         
     }
     .foot{
-        height: 550px;
-        width: 270px;
+        height: 650px;
+        width: 400px;
         background-color: black;
         margin-top: 100px;   
         
@@ -231,7 +231,7 @@
     }
     .icons{
         display: flex;
-        padding-left: 178px;
+        padding-left: 100px;
     }
     .icons img{
         height: 35px;
