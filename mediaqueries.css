@@ -18,6 +18,10 @@
         z-index: 100;
         
     }
+    .menu1 img{
+        height: 40px;
+        width: 40px;
+    }
     .logo{
         font-size: 20px;
         font-weight: bolder;
