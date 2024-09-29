@@ -200,7 +200,7 @@
         
     }
     .foot{
-        height: 740px;
+        height: 550px;
         width: 270px;
         background-color: black;
         margin-top: 100px;   
@@ -231,7 +231,7 @@
     }
     .icons{
         display: flex;
-        padding-left: 268px;
+        padding-left: 178px;
     }
     .icons img{
         height: 35px;
