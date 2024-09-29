@@ -73,7 +73,7 @@
         font-size: 17px;
         font-weight: bolder;
         color: black;
-        padding-top: 70px;
+        padding-top: 90px;
         padding-left: 140px;
         text-align: center;
     
@@ -113,8 +113,8 @@
     }
     
     .colr11 img{
-        height: 360px;
-        width: 360px;
+        height: 160px;
+        width: 160px;
 
         margin-left: 50px;
         margin-top: 30px;
@@ -125,8 +125,8 @@
     
     }
     .colr12 img{
-        height: 360px;
-        width: 360px;
+        height: 160px;
+        width: 160px;
 
         margin-left: 50px;
         margin-top: 30px;
@@ -135,8 +135,8 @@
     
     }
     .colr13 img{
-        height: 360px;
-        width: 360px;
+        height: 160px;
+        width: 160px;
 
         margin-left: 50px;
         margin-top: 50px;
@@ -144,8 +144,8 @@
         border-radius: 10px;
     }
     .colr14 img{
-        height: 360px;
-        width: 360px;
+        height: 160px;
+        width: 160px;
 
         margin-left: 50px;
         margin-top: 50px;
@@ -179,7 +179,7 @@
         padding-right: 75px;
         padding-top: 15px;
         padding-bottom: 15px;
-        margin-left: 198px;
+        margin-left: 118px;
         margin-top: 60px;
         margin-bottom: 50px;
         border-radius: 20px;
