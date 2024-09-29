@@ -113,8 +113,8 @@
     }
     
     .colr11 img{
-        height: 160px;
-        width: 160px;
+        height: 200px;
+        width: 200px;
 
         margin-left: 50px;
         margin-top: 30px;
@@ -125,8 +125,8 @@
     
     }
     .colr12 img{
-        height: 160px;
-        width: 160px;
+        height: 200px;
+        width: 200px;
 
         margin-left: 50px;
         margin-top: 30px;
@@ -135,8 +135,8 @@
     
     }
     .colr13 img{
-        height: 160px;
-        width: 160px;
+        height: 200px;
+        width: 200px;
 
         margin-left: 50px;
         margin-top: 50px;
@@ -144,10 +144,10 @@
         border-radius: 10px;
     }
     .colr14 img{
-        height: 160px;
-        width: 160px;
+        height: 20px;
+        width: 200px;
 
-        margin-left: 50px;
+        margin-left: 70px;
         margin-top: 50px;
         border: 5px solid gold;
         border-radius: 10px;
@@ -166,7 +166,7 @@
     }
     .colr4{
         font-size: 25px;
-        margin-left: 40px;
+        margin-left: 60px;
         padding: 0px;
         margin-top: 10px;
     }
@@ -194,7 +194,7 @@
         padding-right: 78px;
         padding-top: 18px;
         padding-bottom: 18px;
-        margin-left: 188px;
+        margin-left: 90px;
         background-color: rgb(201, 171, 115);
         color: black;
         
