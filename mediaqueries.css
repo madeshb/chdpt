@@ -3,10 +3,10 @@
     
         top: 0;
         left: 0;
-        width: 100%;
+        width: 370px;
         height: 60px;
         padding: 15px;
-        background-color: pink;
+        background-color: black;
         backdrop-filter:blur(10px);
         display: flex;
         
@@ -33,7 +33,7 @@
         display: none;
     }
     .img1 img{
-        width: 100%;
+        width: 370px;
         height: 1780px;
         z-index: -1;
         position: absolute;
@@ -70,11 +70,11 @@
         position: absolute;
     }
     .main2 p{
-        font-size: 17px;
+        font-size: 22px;
         font-weight: bolder;
         color: black;
         padding-top: 65px;
-        padding-left: 160px;
+        padding-left: 180px;
         text-align: center;
     
     }
@@ -83,6 +83,7 @@
      }
      .img3 img{
         margin-top: 15px;
+        margin-left: 25px;
         width: 100%;
         
         border-radius:15px; 
@@ -201,7 +202,7 @@
     }
     .foot{
         height: 650px;
-        width: 400px;
+        width: 370px;
         background-color: black;
         margin-top: 100px;   
         
@@ -231,7 +232,7 @@
     }
     .icons{
         display: flex;
-        padding-left: 100px;
+        padding-left: 130px;
     }
     .icons img{
         height: 35px;
